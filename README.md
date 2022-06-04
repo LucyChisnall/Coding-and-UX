@@ -11,7 +11,7 @@
 > <em> has been used in the text to ensure that it is emphasised both visually and for screen readers.
 > All colours meet AAA standards for colour contrast.
 > Links within the copy have maintained the browser rules, so that users understand the common pattern of visited and unvisited links.
-> Hover states have been added to clickable elements, so users know what is clickable
+> Hover states have been added to clickable elements, so users know what is clickable.
 > The site responds down to smaller screen sizes, so it is usable to wide reach of users on a variety of devices. 
 > The ‘further reading links that scroll off the page on mobile have been positioned so that there should always be one that is cut off mid-way to ensure that the user knows to scroll.
 > The links that open in a new tab have been flagged that they do, so that they do not surprise users that were not expecting it. 
